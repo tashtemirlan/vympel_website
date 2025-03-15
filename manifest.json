@@ -1,7 +1,7 @@
 {
     "name": "vympel_tech_website",
     "short_name": "vympel_tech_website",
-    "start_url": ".",
+    "start_url": "/vympel_website/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
